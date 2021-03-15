@@ -1,8 +1,6 @@
-﻿#include "sunnikScript.h"
-using namespace Ss;
+#include "include/sunnikScript.h"
 
 int main(void)
 {
-	int dd = 0;
-	login::login();
+	Ss::asmd::a(); //+계산기 함수입니다.
 }
