@@ -3,9 +3,9 @@
 #include <fstream>
 using namespace std;
 
-namespace Ss
+namespace Ss //Ss
 {
-	namespace login
+	namespace login //Ss::login
 	{
 		char id;
 		char ps;

@@ -2,9 +2,9 @@
 #include <iostream>
 using namespace std;
 
-namespace Ss
+namespace Ss //Ss
 {
-	namespace asmd
+	namespace asmd //Ss::asmd
 	{
 		void a()
 		{
